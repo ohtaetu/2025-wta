@@ -11,12 +11,12 @@ ISSN: 2088-8708 · DOI: [10.11591/ijece.v15i6.pp5173-5182](https://doi.org/10.11
 
 | | |
 |---|---|
-| Full text (PDF) | [truong2025_wta_ijece.pdf](https://ttntwentyohtwo-png.github.io/2025-wta/truong2025_wta_ijece.pdf) |
+| Full text (PDF) | [truong2025_wta_ijece.pdf](https://ohtaetukr-afk.github.io/2025-wta/truong2025_wta_ijece.pdf) |
 | Publisher version | [doi.org/10.11591/ijece.v15i6.pp5173-5182](https://doi.org/10.11591/ijece.v15i6.pp5173-5182) |
 | Journal | [ijece.iaescore.com](http://ijece.iaescore.com) |
 | Semantic Scholar | [CorpusID:282900478](https://api.semanticscholar.org/CorpusID:282900478) |
-| Citation files | [BibTeX (.bib)](https://ttntwentyohtwo-png.github.io/2025-wta/citation.bib) · [EndNote (.enw)](https://ttntwentyohtwo-png.github.io/2025-wta/citation.enw) |
-| Author homepage | [ttntwentyohtwo-png.github.io](https://ttntwentyohtwo-png.github.io/) |
+| Citation files | [BibTeX (.bib)](https://ohtaetukr-afk.github.io/2025-wta/citation.bib) · [EndNote (.enw)](https://ohtaetukr-afk.github.io/2025-wta/citation.enw) |
+| Author homepage | [ohtaetukr-afk.github.io](https://ohtaetukr-afk.github.io/) |
 
 ## Abstract
 
