@@ -1,0 +1,35 @@
+cff-version: 1.2.0
+message: "If you use or refer to this work, please cite the published article below."
+title: "Improving time-domain winner-take-all circuit for neuromorphic computing systems"
+authors:
+  - family-names: Truong
+    given-names: Son Ngoc
+    affiliation: "HCMC University of Technology and Education"
+  - family-names: Ngo
+    given-names: Tu Tien
+    affiliation: "HCMC University of Technology and Education"
+    orcid: "https://orcid.org/0009-0000-0554-585X"
+license: CC-BY-SA-4.0
+url: "https://ttntwentyohtwo-png.github.io/2025-wta/"
+repository-code: "https://github.com/ttntwentyohtwo-png/2025-wta"
+preferred-citation:
+  type: article
+  title: "Improving time-domain winner-take-all circuit for neuromorphic computing systems"
+  authors:
+    - family-names: Truong
+      given-names: Son Ngoc
+    - family-names: Ngo
+      given-names: Tu Tien
+      orcid: "https://orcid.org/0009-0000-0554-585X"
+  journal: "International Journal of Electrical and Computer Engineering (IJECE)"
+  volume: 15
+  issue: 6
+  start: 5173
+  end: 5182
+  year: 2025
+  month: 12
+  issn: "2088-8708"
+  doi: "10.11591/ijece.v15i6.pp5173-5182"
+  url: "https://doi.org/10.11591/ijece.v15i6.pp5173-5182"
+  publisher:
+    name: "Institute of Advanced Engineering and Science"
