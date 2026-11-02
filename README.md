@@ -14,6 +14,8 @@ ISSN: 2088-8708 · DOI: [10.11591/ijece.v15i6.pp5173-5182](https://doi.org/10.11
 | Full text (PDF) | [truong2025_wta_ijece.pdf](https://ttntwentyohtwo-png.github.io/2025-wta/truong2025_wta_ijece.pdf) |
 | Publisher version | [doi.org/10.11591/ijece.v15i6.pp5173-5182](https://doi.org/10.11591/ijece.v15i6.pp5173-5182) |
 | Journal | [ijece.iaescore.com](http://ijece.iaescore.com) |
+| Semantic Scholar | [CorpusID:282900478](https://api.semanticscholar.org/CorpusID:282900478) |
+| Citation files | [BibTeX (.bib)](https://ttntwentyohtwo-png.github.io/2025-wta/citation.bib) · [EndNote (.enw)](https://ttntwentyohtwo-png.github.io/2025-wta/citation.enw) |
 | Author homepage | [ttntwentyohtwo-png.github.io/2025-wta](https://ttntwentyohtwo-png.github.io/2025-wta/) |
 
 ## Abstract
@@ -44,9 +46,9 @@ If you use or refer to this work, please cite the published article.
 **BibTeX**
 
 ```bibtex
-@article{truong2025improving,
-  author    = {Truong, Son Ngoc and Ngo, Tu Tien},
+@article{Truong2025ImprovingTW,
   title     = {Improving time-domain winner-take-all circuit for neuromorphic computing systems},
+  author    = {Truong, Son Ngoc and Ngo, Tu Tien},
   journal   = {International Journal of Electrical and Computer Engineering (IJECE)},
   volume    = {15},
   number    = {6},
@@ -60,7 +62,7 @@ If you use or refer to this work, please cite the published article.
 }
 ```
 
-GitHub's **"Cite this repository"** button (right sidebar) also exports this reference in APA and BibTeX from [CITATION.cff](CITATION.cff).
+You can also download [citation.bib](citation.bib) (BibTeX) or [citation.enw](citation.enw) (EndNote) and import it into Zotero, Mendeley or EndNote. GitHub's **"Cite this repository"** button (right sidebar) also exports this reference in APA and BibTeX from [CITATION.cff](CITATION.cff).
 
 ## Contact
 
