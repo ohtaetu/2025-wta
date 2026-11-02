@@ -67,7 +67,6 @@ You can also download [citation.bib](citation.bib) (BibTeX) or [citation.enw](ci
 ## Contact
 
 - Corresponding author: Son Ngoc Truong, sontn@hcmute.edu.vn
-- Tu Tien Ngo, ORCID [0009-0000-0554-585X](https://orcid.org/0009-0000-0554-585X)
 
 ## License
 
