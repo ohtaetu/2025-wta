@@ -16,7 +16,7 @@ ISSN: 2088-8708 · DOI: [10.11591/ijece.v15i6.pp5173-5182](https://doi.org/10.11
 | Journal | [ijece.iaescore.com](http://ijece.iaescore.com) |
 | Semantic Scholar | [CorpusID:282900478](https://api.semanticscholar.org/CorpusID:282900478) |
 | Citation files | [BibTeX (.bib)](https://ttntwentyohtwo-png.github.io/2025-wta/citation.bib) · [EndNote (.enw)](https://ttntwentyohtwo-png.github.io/2025-wta/citation.enw) |
-| Author homepage | [ttntwentyohtwo-png.github.io/2025-wta](https://ttntwentyohtwo-png.github.io/2025-wta/) |
+| Author homepage | [ttntwentyohtwo-png.github.io](https://ttntwentyohtwo-png.github.io/) |
 
 ## Abstract
 
